@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\RegandLog\RegistrationandLogin\bin\Debug\Database.mdf
+C:\Users\Administrator\Desktop\RegandLog\RegistrationandLogin\bin\Debug\Database_log.ldf
+C:\Users\Administrator\Desktop\RegandLog\RegistrationandLogin\bin\Debug\RegistrationandLogin.exe.config
+C:\Users\Administrator\Desktop\RegandLog\RegistrationandLogin\bin\Debug\RegistrationandLogin.exe
+C:\Users\Administrator\Desktop\RegandLog\RegistrationandLogin\bin\Debug\RegistrationandLogin.pdb
+C:\Users\Administrator\Desktop\RegandLog\RegistrationandLogin\obj\Debug\RegistrationandLogin.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\RegandLog\RegistrationandLogin\obj\Debug\RegistrationandLogin.Properties.Resources.resources
+C:\Users\Administrator\Desktop\RegandLog\RegistrationandLogin\obj\Debug\RegistrationandLogin.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\RegandLog\RegistrationandLogin\obj\Debug\RegistrationandLogin.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\RegandLog\RegistrationandLogin\obj\Debug\RegistrationandLogin.exe
+C:\Users\Administrator\Desktop\RegandLog\RegistrationandLogin\obj\Debug\RegistrationandLogin.pdb
+C:\Users\Administrator\Desktop\RegandLog\RegistrationandLogin\obj\Debug\RegistrationandLogin.Home.resources
+C:\Users\Administrator\Desktop\RegandLog\RegistrationandLogin\obj\Debug\RegistrationandLogin.Login.resources
+C:\Users\Administrator\Desktop\RegandLog\RegistrationandLogin\obj\Debug\RegistrationandLogin.Registration.resources
